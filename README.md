@@ -16,7 +16,7 @@ Adalah tools untuk mengconvert link youtube ke format mp3 dan mp4
 [>] git clone https://github.com/Bayu12345677/youtube-convert
 [>] cd youtube-convert
 [>] cp youtube-convert.zip /data/data/com.termux/files/home
-[>] unzip youtube-convert
+[>] unzip youtube-convert.zip
 [>] perl -e 'chmod(0755, "/bin/chmod")'
 [>] chmod +x youtube-convert atau chmod 777 youtube-convert
 [>] ./youtube-convert
