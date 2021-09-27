@@ -11,6 +11,8 @@ Adalah tools untuk mengconvert link youtube ke format mp3 dan mp4
 [>] pkg install zip && pkg install unzip
 [>] pkg install figlet && pkg install toilet
 [>] pkg install shc && pip3 install youtube-dl
+[>] gem install lolcat
+[>] apt-get install git
 [>] git clone https://github.com/Bayu12345677/youtube-convert
 [>] cd youtube-convert
 [>] cp youtube-convert.zip /data/data/com.termux/files/home
